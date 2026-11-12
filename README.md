@@ -1,0 +1,2 @@
+# CONNECT-PILIH-BIJAK
+Adc ls 4
